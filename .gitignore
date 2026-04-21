@@ -1,0 +1,21 @@
+# Required by OJ
+CMakeFiles/
+CMakeCache.txt
+
+# Common CMake artifacts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Binary
+code
+
+# Objects
+*.o
+
+# Local secrets
+.env
+.acmoj_token
+
+# Build dirs
+build/
